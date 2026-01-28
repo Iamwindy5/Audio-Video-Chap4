@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project_Unity\\Audio\u0026Video_Chap4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{937950D6-BF9D-2F25-F293-3C019F766988}|Assembly-CSharp.csproj|d:\\project_unity\\audio\u0026video_chap4\\assets\\scripts\\introcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{937950D6-BF9D-2F25-F293-3C019F766988}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\introcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{937950D6-BF9D-2F25-F293-3C019F766988}|Assembly-CSharp.csproj|d:\\project_unity\\audio\u0026video_chap4\\assets\\scripts\\videoevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{937950D6-BF9D-2F25-F293-3C019F766988}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\videoevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{937950D6-BF9D-2F25-F293-3C019F766988}|Assembly-CSharp.csproj|D:\\Project_Unity\\Audio\u0026Video_Chap4\\assets\\scripts\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{937950D6-BF9D-2F25-F293-3C019F766988}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{937950D6-BF9D-2F25-F293-3C019F766988}|Assembly-CSharp.csproj|D:\\Project_Unity\\Audio\u0026Video_Chap4\\assets\\scripts\\globalaudiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{937950D6-BF9D-2F25-F293-3C019F766988}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\globalaudiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{937950D6-BF9D-2F25-F293-3C019F766988}|Assembly-CSharp.csproj|D:\\Project_Unity\\Audio\u0026Video_Chap4\\assets\\scripts\\soundcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{937950D6-BF9D-2F25-F293-3C019F766988}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\soundcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IntroController.cs",
+              "DocumentMoniker": "D:\\Project_Unity\\Audio\u0026Video_Chap4\\Assets\\Scripts\\IntroController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IntroController.cs",
+              "ToolTip": "D:\\Project_Unity\\Audio\u0026Video_Chap4\\Assets\\Scripts\\IntroController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IntroController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T15:32:49.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VideoEvents.cs",
+              "DocumentMoniker": "D:\\Project_Unity\\Audio\u0026Video_Chap4\\Assets\\Scripts\\VideoEvents.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\VideoEvents.cs",
+              "ToolTip": "D:\\Project_Unity\\Audio\u0026Video_Chap4\\Assets\\Scripts\\VideoEvents.cs",
+              "RelativeToolTip": "Assets\\Scripts\\VideoEvents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T15:12:59.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VideoController.cs",
+              "DocumentMoniker": "D:\\Project_Unity\\Audio\u0026Video_Chap4\\Assets\\Scripts\\VideoController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\VideoController.cs",
+              "ToolTip": "D:\\Project_Unity\\Audio\u0026Video_Chap4\\Assets\\Scripts\\VideoController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\VideoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T14:57:53.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GlobalAudioManager.cs",
+              "DocumentMoniker": "D:\\Project_Unity\\Audio\u0026Video_Chap4\\Assets\\Scripts\\GlobalAudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GlobalAudioManager.cs",
+              "ToolTip": "D:\\Project_Unity\\Audio\u0026Video_Chap4\\Assets\\Scripts\\GlobalAudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GlobalAudioManager.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T14:26:30.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SoundController.cs",
+              "DocumentMoniker": "D:\\Project_Unity\\Audio\u0026Video_Chap4\\Assets\\Scripts\\SoundController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SoundController.cs",
+              "ToolTip": "D:\\Project_Unity\\Audio\u0026Video_Chap4\\Assets\\Scripts\\SoundController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SoundController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T14:10:25.422Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
